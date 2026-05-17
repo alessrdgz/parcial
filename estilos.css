@@ -1,0 +1,59 @@
+body {
+    background-image: url('fondo.jpg');
+    background-size: contain;
+    font-family: 'Arvo', serif;
+    color: white;
+    margin: 0;
+}
+
+p {
+    background-color: black;
+    padding: 10px;
+}
+
+h1,h2 {
+    background-color: black
+    padding: 10px;;
+}
+
+ul {
+    background-color: black;
+    padding: 20px;
+}
+
+header {
+    padding: 20px;
+}
+
+nav {
+    background-color: black;
+    padding: 10px;
+}
+
+nav ul {
+    list-style-type: none;
+}
+
+nav li {
+    display: inline;
+    margin-right: 15px;
+}
+
+nav a {
+    color: white;
+}
+
+section {
+    padding: 20px;
+}
+
+img {
+    width: 300px;
+    display: block;
+    margin: auto;
+}
+
+footer {
+    background-color: black;
+    padding: 10px;
+}
